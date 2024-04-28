@@ -48,7 +48,7 @@
 <h4>🅰🅱🅾🆄🆃 🅼🅴 </h4>
 <div align="center">
   
-#### I love my fur babies, my garden, cooking and traveling. My hobby is embroidery and sublimation.
+#### I enjoy my life. I love my fur babies, my garden, cooking and traveling. 
 <div align="center">
 
 
