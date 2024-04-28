@@ -1,6 +1,6 @@
 <div align="center">
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmptNDNieHoyaDh5MXNnbnh0ZHFpejZ2N2k0a2M4ZXdkd25xeXIyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdjQAgDIkRsYm1HUbt/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmptNDNieHoyaDh5MXNnbnh0ZHFpejZ2N2k0a2M4ZXdkd25xeXIyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdjQAgDIkRsYm1HUbt/giphy.gif" width="200"/>
 </div>
   
 # Hi there 👋
