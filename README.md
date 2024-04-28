@@ -6,7 +6,7 @@
 # Hi there 👋
 <div align="center">
   
-## My name is Volha. I'm Software QA Automation Engineer
+## My name is Volha. I'm Software QA Automation Engineer.
   <div align="center">
     
 ## Glad to see you here!
