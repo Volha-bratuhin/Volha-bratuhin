@@ -9,7 +9,7 @@
 ## Glad to see you here!
   <div align="center">
   
-## My name is Volha. I'm Software QA Automation Engineer.
+## ***My name is Volha. I'm Software QA Automation Engineer.***
   <div align="center">
      
 #### ***Manual and Automation Testing of Web, Desktop and Mobile Applications. Knowledge software testing processes and automation techniques; Front-End, Back-End, regression and Performance testing. Deep understanding of test documentation, analytical and logical skills. Fast learner.***
