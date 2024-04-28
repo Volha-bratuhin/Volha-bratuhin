@@ -12,7 +12,7 @@
 ## Glad to see you here!
   <div align="center">
     
-<a href="https://www.linkedin.com/in/volha-bratuhin/">
+<a href="https://www.linkedin.com/in/volha-bratuhin-954b37303/">
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
