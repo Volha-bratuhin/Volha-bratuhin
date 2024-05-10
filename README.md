@@ -43,8 +43,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="70" height="70" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="100" height="100" />&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/Swagger/Swagger-original.svg" alt="Swagger" width="55"/>&nbsp;
- 
+  
 
 <div align="center">
 <div id="header" align="center">
