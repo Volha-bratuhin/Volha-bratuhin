@@ -19,7 +19,7 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/volha-bratuhin-954b37303/">
+  <a href="https://www.linkedin.com/in/volha-bratuhin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
